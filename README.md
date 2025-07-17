@@ -54,13 +54,8 @@ Zooms into year-wise movie patterns and detailed film performance.
 
 ## 🖼️ Screenshots
 
-### 🔹 Overview Page  
-Overview(1).png
+![Overview](Overview%20(1).png)
 
-### 🔹 Trends Page  
-Trends.png
-
----
-
-## 📁 Repository Structure
+### 🟧 Trends Page  
+![Trends](Trends.png)
 
